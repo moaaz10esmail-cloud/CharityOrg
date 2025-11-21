@@ -1,0 +1,17 @@
+C:\Users\Moaaz\Pictures\Charity System\UnitTest\bin\Debug\net8.0\UnitTest.deps.json
+C:\Users\Moaaz\Pictures\Charity System\UnitTest\bin\Debug\net8.0\UnitTest.dll
+C:\Users\Moaaz\Pictures\Charity System\UnitTest\bin\Debug\net8.0\UnitTest.pdb
+C:\Users\Moaaz\Pictures\Charity System\UnitTest\bin\Debug\net8.0\Application.dll
+C:\Users\Moaaz\Pictures\Charity System\UnitTest\bin\Debug\net8.0\Domain.dll
+C:\Users\Moaaz\Pictures\Charity System\UnitTest\bin\Debug\net8.0\Application.pdb
+C:\Users\Moaaz\Pictures\Charity System\UnitTest\bin\Debug\net8.0\Domain.pdb
+C:\Users\Moaaz\Pictures\Charity System\UnitTest\obj\Debug\net8.0\UnitTest.csproj.AssemblyReference.cache
+C:\Users\Moaaz\Pictures\Charity System\UnitTest\obj\Debug\net8.0\UnitTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moaaz\Pictures\Charity System\UnitTest\obj\Debug\net8.0\UnitTest.AssemblyInfoInputs.cache
+C:\Users\Moaaz\Pictures\Charity System\UnitTest\obj\Debug\net8.0\UnitTest.AssemblyInfo.cs
+C:\Users\Moaaz\Pictures\Charity System\UnitTest\obj\Debug\net8.0\UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\Moaaz\Pictures\Charity System\UnitTest\obj\Debug\net8.0\UnitTest.csproj.Up2Date
+C:\Users\Moaaz\Pictures\Charity System\UnitTest\obj\Debug\net8.0\UnitTest.dll
+C:\Users\Moaaz\Pictures\Charity System\UnitTest\obj\Debug\net8.0\refint\UnitTest.dll
+C:\Users\Moaaz\Pictures\Charity System\UnitTest\obj\Debug\net8.0\UnitTest.pdb
+C:\Users\Moaaz\Pictures\Charity System\UnitTest\obj\Debug\net8.0\ref\UnitTest.dll

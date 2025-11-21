@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Moaaz\\Pictures\\BACKUP Charity SYS\\22\\Charity System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38CAA3EA-1EA7-45F9-BB1B-CF5CF3EFE1BB}|Domain\\Domain.csproj|c:\\users\\moaaz\\pictures\\backup charity sys\\22\\charity system\\domain\\entities\\reportschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38CAA3EA-1EA7-45F9-BB1B-CF5CF3EFE1BB}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\reportschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38CAA3EA-1EA7-45F9-BB1B-CF5CF3EFE1BB}|Domain\\Domain.csproj|c:\\users\\moaaz\\pictures\\backup charity sys\\22\\charity system\\domain\\entities\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38CAA3EA-1EA7-45F9-BB1B-CF5CF3EFE1BB}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReportSchedule.cs",
+              "DocumentMoniker": "C:\\Users\\Moaaz\\Pictures\\BACKUP Charity SYS\\22\\Charity System\\Domain\\Entities\\ReportSchedule.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\ReportSchedule.cs",
+              "ToolTip": "C:\\Users\\Moaaz\\Pictures\\BACKUP Charity SYS\\22\\Charity System\\Domain\\Entities\\ReportSchedule.cs*",
+              "RelativeToolTip": "Domain\\Entities\\ReportSchedule.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T16:18:53.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Notification.cs",
+              "DocumentMoniker": "C:\\Users\\Moaaz\\Pictures\\BACKUP Charity SYS\\22\\Charity System\\Domain\\Entities\\Notification.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Notification.cs",
+              "ToolTip": "C:\\Users\\Moaaz\\Pictures\\BACKUP Charity SYS\\22\\Charity System\\Domain\\Entities\\Notification.cs*",
+              "RelativeToolTip": "Domain\\Entities\\Notification.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T16:18:31.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
